@@ -2,11 +2,11 @@
 
 This project automates the process of unfollowing users on GitHub who haven't followed you back. It leverages the GitHub API to retrieve your following and follower lists, compares them, and unfollows users who are not following you back.
 
-📋 Features
-Fetches your following and followers lists using the GitHub API.
-Handles pagination to retrieve all users (more than 30).
-Identifies users who haven't followed you back.
-Automatically unfollows non-followers.
+📋 Features:
+     Fetches your following and followers lists using the GitHub API.
+     Handles pagination to retrieve all users (more than 30).
+     Identifies users who haven't followed you back.
+     Automatically unfollows non-followers.
 
 🛠 Technologies Used:
 
