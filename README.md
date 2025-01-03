@@ -8,10 +8,11 @@ Handles pagination to retrieve all users (more than 30).
 Identifies users who haven't followed you back.
 Automatically unfollows non-followers.
 
-🛠 Technologies Used
-Node.js: JavaScript runtime for building server-side applications.
-Axios: For making API requests.
-dotenv: To manage environment variables.
+🛠 Technologies Used:
+
+   Node.js: JavaScript runtime for building server-side applications.
+   Axios: For making API requests.
+   dotenv: To manage environment variables.
 
 ⚙️ Setup Instructions
 1️⃣ Prerequisites
@@ -25,6 +26,7 @@ A GitHub Personal Access Token with the user:follow scope.
 2️⃣ Clone the Repository:
 
    `https://github.com/Sawrozzz/Github-automation-bot.git`
+
     cd Github-automation-bot
 
 3️⃣ Install Dependencies:
@@ -56,6 +58,7 @@ node main.js or you can use nodemon main.js.
        ✅ Unfollowed user5
        ✅ Unfollow process completed.
 
-🛡️ Important Notes
-    Ensure your GitHub token has the user:follow scope to follow/unfollow users.
-    Use this script responsibly to avoid rate-limiting or violating GitHub's terms of service.
+🛡️ Important Notes:
+
+     Ensure your GitHub token has the user:follow scope to follow/unfollow users.
+     Use this script responsibly to avoid rate-limiting or violating GitHub's terms of service.
