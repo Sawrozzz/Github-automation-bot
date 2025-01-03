@@ -42,7 +42,10 @@ GITHUB_USERNAME=your_github_username
 node main.js or you can use nodemon main.js.
 
 📚 Example Output
+
    Found 5 users who haven't followed you back:
+
+   
        ✅ Unfollowed user1
        ✅ Unfollowed user2
        ✅ Unfollowed user3
