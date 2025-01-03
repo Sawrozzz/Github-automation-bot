@@ -42,14 +42,14 @@ GITHUB_USERNAME=your_github_username
 node main.js or you can use nodemon main.js.
 
 📚 Example Output
-Found 5 users who haven't followed you back.
-✅ Unfollowed user1
-✅ Unfollowed user2
-✅ Unfollowed user3
-✅ Unfollowed user4
-✅ Unfollowed user5
-✅ Unfollow process completed.
+   Found 5 users who haven't followed you back.
+       ✅ Unfollowed user1
+       ✅ Unfollowed user2
+       ✅ Unfollowed user3
+       ✅ Unfollowed user4
+       ✅ Unfollowed user5
+       ✅ Unfollow process completed.
 
 🛡️ Important Notes
-Ensure your GitHub token has the user:follow scope to follow/unfollow users.
-Use this script responsibly to avoid rate-limiting or violating GitHub's terms of service.
+    Ensure your GitHub token has the user:follow scope to follow/unfollow users.
+    Use this script responsibly to avoid rate-limiting or violating GitHub's terms of service.
