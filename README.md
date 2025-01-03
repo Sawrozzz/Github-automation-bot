@@ -22,12 +22,14 @@ Make sure you have the following installed on your system:
 
 A GitHub Personal Access Token with the user:follow scope.
 
-2️⃣ Clone the Repository
-`https://github.com/Sawrozzz/Github-automation-bot.git`
-cd Github-automation-bot
+2️⃣ Clone the Repository:
 
-3️⃣ Install Dependencies
-npm install
+   `https://github.com/Sawrozzz/Github-automation-bot.git`
+    cd Github-automation-bot
+
+3️⃣ Install Dependencies:
+
+   npm install
 
 4️⃣ Create a .env File:
 
