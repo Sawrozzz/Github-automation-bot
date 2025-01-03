@@ -29,11 +29,12 @@ cd Github-automation-bot
 3️⃣ Install Dependencies
 npm install
 
-4️⃣ Create a .env File
-GITHUB_TOKEN=your_personal_access_token
-GITHUB_USERNAME=your_github_username
+4️⃣ Create a .env File:
 
-    🔐 Note:
+    GITHUB_TOKEN=your_personal_access_token
+    GITHUB_USERNAME=your_github_username
+
+🔐 Note:
 
       Replace your_personal_access_token with your actual GitHub token.
       Replace your_github_username with your GitHub username.
@@ -45,7 +46,7 @@ node main.js or you can use nodemon main.js.
 
    Found 5 users who haven't followed you back:
 
-   
+
        ✅ Unfollowed user1
        ✅ Unfollowed user2
        ✅ Unfollowed user3
