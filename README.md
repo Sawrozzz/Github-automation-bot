@@ -35,8 +35,8 @@ GITHUB_USERNAME=your_github_username
 
     🔐 Note:
 
-Replace your_personal_access_token with your actual GitHub token.
-Replace your_github_username with your GitHub username.
+      Replace your_personal_access_token with your actual GitHub token.
+      Replace your_github_username with your GitHub username.
 
 5️⃣ Run the Script
 node main.js or you can use nodemon main.js.
